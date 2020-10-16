@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  datetime_test: 2020-10-15 17:49:11
+  date_test: 2020-10-15
+
+two:
+  datetime_test: 2020-10-15 17:49:11
+  date_test: 2020-10-15
